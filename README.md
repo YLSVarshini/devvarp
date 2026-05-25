@@ -88,15 +88,3 @@ Run scripts in order:
     python 04_permutation_validation.py
     python 05_disease_system_analysis.py
     python 06_generate_figures.py
-
----
-
-## Citation
-
-Yedavalli, Lakshmi Sai Varshini. "Pathogenic Non-Coding Variants in Congenital-Onset Pediatric Rare Diseases Are Depleted from Annotated Fetal Regulatory Elements: Evidence for a Temporal Annotation Gap." Global Research Challenge, 2026.
-
----
-
-## License
-
-MIT License — free to use, modify, and distribute with attribution.
