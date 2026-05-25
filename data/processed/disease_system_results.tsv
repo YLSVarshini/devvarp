@@ -1,0 +1,5 @@
+disease_system	n_pathogenic	path_fetal_pct	n_benign	benign_fetal_pct	odds_ratio	pvalue
+Congenital Heart	33	21.21	1808	22.84	0.909	1.0
+Congenital Brain	113	12.39	796	18.09	0.64	0.1461
+Congenital Skeletal	26	19.23	1235	19.11	1.008	1.0
+Other Congenital	303	15.84	22290	21.77	0.677	0.0115

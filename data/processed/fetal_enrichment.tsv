@@ -1,0 +1,5 @@
+onset_group	n_pathogenic	path_fetal_pct	n_benign	benign_fetal_pct	enrichment_ratio
+G1_Congenital	479	15.87	26291	21.57	0.736
+G2_Neonatal	154	16.23	7893	19.68	0.825
+G3_Infantile	591	18.95	25083	21.52	0.881
+G4_Childhood	102	28.43	4531	19.86	1.431

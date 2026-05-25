@@ -1,0 +1,6 @@
+data/raw/
+data/processed/curated_variants.tsv
+data/processed/fetal_annotated_variants.tsv
+__pycache__/
+*.pyc
+*.gz

@@ -1,0 +1,5 @@
+onset_group	path_in	path_out	benign_in	benign_out	odds_ratio	pvalue	pvalue_corrected	significant_after_correction
+G1_Congenital	76	403	5671	20620	0.686	0.0024	0.0096	True
+G2_Neonatal	25	129	1553	6340	0.791	0.3073	0.3073	False
+G3_Infantile	112	479	5398	19685	0.853	0.1415	0.18866666666666665	False
+G4_Childhood	29	73	900	3631	1.603	0.0443	0.0886	False
